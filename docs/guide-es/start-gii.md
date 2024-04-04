@@ -43,7 +43,7 @@ defined('YII_ENV') or define('YII_ENV', 'dev');
 De esta manera, tu aplicación habrá habilitado Gii, y puedes acceder al módulo a través de la siguiente URL:
 
 ```
-https://hostname/index.php?r=gii
+https://hostname/index.php?r=gii o https://hostname/index.php/gii
 ```
 
 ![Gii](images/start-gii.png)
